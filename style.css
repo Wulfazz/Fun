@@ -1,0 +1,92 @@
+.dolls {
+    display: flex;
+    height: 300px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+ .doll1 {
+    display: flex;
+    height: 500px;
+ }
+
+ .blue {
+    display: flex;
+    background-color: blue;
+    height: 500px;
+    width: 50%;
+    margin-bottom: 10px;
+
+ }
+
+ .doll2 {
+    display: flex;
+    height: 250px;
+    width: 50%;
+    justify-content: end;
+ }
+
+.doll3 {
+    display: flex;
+    height: 300px;
+    width: 50%;
+}
+
+.doll4 {
+    display: flex;
+    height: 125px;
+    width: 50%;
+}
+
+.doll5 {
+    display: flex;
+    height: 125px;
+    width: 50%;
+}
+
+ #green1 {
+    background-color: green;
+    height: 250px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+ #brown {
+    background-color: brown;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ #green2 {
+    background-color: rgb(0, 88, 0);
+    height: 125px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ #white {
+    background-color: white;
+    height: 125px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ #black {
+    background-color: black;
+    height: 125px;
+    width: 100%;
+    margin-bottom: 10px;
+} 
+
+#red {
+    background-color: red;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+#yellow {
+    background-color: yellow;
+    height: 150px;
+    margin-bottom: 10px;
+ }
